@@ -1,2 +1,2 @@
 // code here
-print "Hello world"
+return new Cube(20).toCSG()
